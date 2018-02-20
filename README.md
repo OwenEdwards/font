@@ -1,5 +1,7 @@
 # Video.js Icon Font
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/videojs/font.svg)](https://greenkeeper.io/)
+
 This project contains all of the tooling necessary to generate a new icon font for Video.js. The icons themselves are from
 Google's [Material Design Icons](https://github.com/google/material-design-icons).
 
